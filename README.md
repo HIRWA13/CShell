@@ -14,7 +14,7 @@ Usage: **T&Hshell** [filename]
 To invoke **T&Hshell**, compile all `.c` files in the repository and run the resulting executable:
 
 ```
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o *.c -o T&Hshell
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o T&Hshell
 ./T&Hshell
 ```
 
